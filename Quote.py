@@ -1,3 +1,4 @@
 print(“Hello World, my first open source project”)
-print(“INSERT QUOTE”)
+print(“I came, I saw, I conquered”)
+print("INSERT QUOTE")
 
